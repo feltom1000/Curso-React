@@ -1,0 +1,19 @@
+ .box-item{
+    border: solid rgba(189, 189, 189, 0.6) !important;
+    border-radius: 10px !important;
+    box-shadow: 7px 7px 15px 5px rgba(199, 199, 199, 0.6) !important;
+    margin: auto auto 8px;
+}
+
+
+.imgAv{
+    margin: auto;
+    width: 80px;
+    margin-top: 5px;
+}
+
+.tw{
+    font-size: 14px;
+    color: rgb(13, 163, 201);
+}
+
